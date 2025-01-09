@@ -125,3 +125,25 @@ g++ -I SDL2/include -L SDL2/lib -o sjf algorithms/shortestJobFirst/sjfVisualizer
 ```
 
 ---
+
+## 🖼️ Output Images
+Below are visual outputs for each scheduling algorithm:
+
+### FCFS (First Come First Serve)
+![FCFS Visualizer Output](images/fcfs-visualizer.png)
+![FCFS Terminal Output](images/fcfs.png)
+
+### LJF (Longest Job First)
+![LJF Visualizer Output](images/ljf-visualizer.png)
+
+### LRTF (Longest Remaining Time First)
+![LRTF Visualizer Output](images/lrtf-visualizer.png)
+![LRTF Terminal Output](images/lrtf.png)
+
+### RR (Round Robin)
+![RR Visualizer Output](images/rr-visualizer.png)
+![RR Terminal Output](images/rr.png)
+
+### SJF (Shortest Job First)
+![SJF Visualizer Output](images/sjf-visualizer.png)
+![SJF Terminal Output](images/sjf.png)
