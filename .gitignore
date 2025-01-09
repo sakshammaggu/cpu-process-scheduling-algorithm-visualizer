@@ -1,0 +1,7 @@
+/build/
+
+/SDL2/
+SDL2.dll
+SDL2_ttf.dll
+
+*.exe
