@@ -11,6 +11,7 @@ A comprehensive visualizer for CPU scheduling algorithms, implemented in C++ wit
 - [Installation](#installation)
 - [Build and Run](#build-and-run)
 - [Commands for Visualization](#commands-for-visualization)
+- [Output Images](#output-images)
 
 ---
 
